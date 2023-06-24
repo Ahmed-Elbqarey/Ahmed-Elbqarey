@@ -19,7 +19,7 @@
     <a href="https://www.instagram.com/a7med_elbqarey/">
         <img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/>
     </a>
-    <a href="https://ahmed-elbqarey.great-site.net">
+    <a href="https://ahmed-elbqarey.github.io/portfolio">
         <img src="https://img.shields.io/badge/WebSite-%eee?style=flat&logo=w3&logoColor=white"/>
     </a>
 </p>
@@ -29,6 +29,7 @@
 </p>
 
 ### 🛠 &nbsp;Tech Stack
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=1572B6)&nbsp;
@@ -37,7 +38,5 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
 
 ![Portfolio](https://github.com/Ahmed-Elbqarey/Ahmed-Elbqarey/blob/main/frame_generic_dark.png)
