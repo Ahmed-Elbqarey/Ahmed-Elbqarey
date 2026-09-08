@@ -2,7 +2,7 @@
     Hi, I'm Ahmed Elbqarey
     </h2>
     <h3 display ="inline-block" align="center">Welcome</h3>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img display="inline-block" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <img width="250" align="left" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
