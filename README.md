@@ -1,7 +1,7 @@
 <h2 align="center">
     Hi, I'm Ahmed Elbqarey
     </h2>
-    <div display="flex" justifyContent="center" alignItems="center">
+    <div display="hidden" justifyContent="center" alignItems="center">
     <span fontsize="80px"> Welcome </span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     </div>
