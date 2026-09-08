@@ -1,8 +1,8 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <h1 align="center">
     Hi, I'm Ahmed Elbqarey
+    </h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
 <h2 align="center">Welcome</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
