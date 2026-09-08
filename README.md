@@ -3,7 +3,7 @@
     </h2>
     <div display="flex" justifyContent="between" alignItems="center">
     <h3> Welcome </h3>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8">
     </div>
 <img width="250" align="left" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <p align="center">
